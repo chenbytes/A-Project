@@ -2083,6 +2083,15 @@
                 "TypeScript"
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+        },
+        {
+            "name": "MDN Content",
+            "link": "https://github.com/mdn/content",
+            "label": "good first issue",
+            "technologies": [
+                "Markdown"
+            ],
+            "description": "The content repository for MDN Web Docs. A large documentation project with beginner-friendly issues."
         }
     ]
 }
